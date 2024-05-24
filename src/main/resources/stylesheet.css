@@ -1,0 +1,29 @@
+node {
+    size: 8px;
+    text-padding: 6px;
+    text-size: 12px;
+    text-color: black;
+    text-alignment: at-left;
+}
+
+node.marked {
+    fill-color: orange;
+}
+
+node.start {
+    fill-color: yellow;
+}
+
+node.end {
+    fill-color: red;
+}
+
+edge {
+    text-padding: 6px;
+    text-size: 12px;
+    text-color: black;
+}
+
+edge.marked {
+    fill-color: orange;
+}
