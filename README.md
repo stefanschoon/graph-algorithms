@@ -7,7 +7,12 @@ This repository contains various graph theoretical algorithms implemented in Jav
 Make sure you have the following installed before running the code:
 
 - Java Development Kit (JDK) 8 or higher
-- GraphStream 2.0 library
+- Apache Maven
+
+Make sure Maven is properly configured in your environment. You can verify by running:
+
+```bash
+mvn --version
 
 ## Algorithms Implemented
 
