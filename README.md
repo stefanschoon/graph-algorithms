@@ -9,6 +9,11 @@ Make sure you have the following installed before running the code:
 - Java Development Kit (JDK) 8 or higher
 - Apache Maven
 
+Make sure Maven is properly configured in your environment. You can verify by running:
+
+```bash
+mvn --version
+
 ## Algorithms Implemented
 
 ### 1. Breadth First Search (BFS)
